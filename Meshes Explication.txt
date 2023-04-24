@@ -1,0 +1,3 @@
+Quand on choisit de diviser un mur en plusieurs "meshes" pour une étude, c'est en fonction de la fréquence de notre système.
+En effet le temps de réponse d'un mur entier est lent, et en peu de temps on ne chauffe que la surface et pas l'intérieur. C'est pour cela qu'on étudie des plus petites couches pour pouvoir visualiser efficacement des variations avec la fréquence de rafraîchissement voulue. 
+L'idée peut être directement associée au critère de Shannon en échantillonage.
